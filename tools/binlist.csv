@@ -1,0 +1,825 @@
+banka_kodu,banka_adi,bin_code,card_type,sinif,marka,sub_type,taksit,odul,ticari
+1,TÜRK ELEKTRONİK PARA A.S.,535616,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+1,TÜRK ELEKTRONİK PARA A.S.,979235,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+1,TÜRK ELEKTRONİK PARA A.S.,979248,TROY,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+1,TÜRK ELEKTRONİK PARA A.S.,979257,TROY,YITDK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+2,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLE,531389,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+2,PAPARA ELEKTRONİK PARA VE ÖDEME HİZMETLE,535925,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+3,POSTA VE TELGRAF TEŞKİLATI A.Ş.,671200,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+3,POSTA VE TELGRAF TEŞKİLATI A.Ş.,979249,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+3,POSTA VE TELGRAF TEŞKİLATI A.Ş.,979254,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+3,POSTA VE TELGRAF TEŞKİLATI A.Ş.,979277,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+3,POSTA VE TELGRAF TEŞKİLATI A.Ş.,979278,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+4,İNİNAL ÖDEME VE ELEKTRONİK PARA HİZ. A.Ş,979266,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,404591,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,407814,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,413226,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,444676,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,444677,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,444678,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,447504,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,454671,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,454672,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,454673,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+10,ZİRAAT BANKASI,454674,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,469884,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+10,ZİRAAT BANKASI,476619,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,482465,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,511885,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,512440,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,513662,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,516932,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,523529,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,527682,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,528208,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,530905,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,531102,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,533154,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,534981,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,540130,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,540134,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,542374,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+10,ZİRAAT BANKASI,546957,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,547287,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+10,ZİRAAT BANKASI,549449,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,676123,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,676124,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,979217,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+10,ZİRAAT BANKASI,979280,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,113012,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,401049,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,415514,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,415515,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,416607,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,421030,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,440776,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,447505,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,451454,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,466260,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,492094,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+12,T. HALK BANKASI A.Ş.,492095,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+12,T. HALK BANKASI A.Ş.,498852,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+12,T. HALK BANKASI A.Ş.,499821,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,510056,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,521378,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,526289,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,526290,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,537500,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,540435,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+12,T. HALK BANKASI A.Ş.,543081,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+12,T. HALK BANKASI A.Ş.,552879,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+12,T. HALK BANKASI A.Ş.,588843,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,639001,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,676258,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,979210,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,979212,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,979238,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+12,T. HALK BANKASI A.Ş.,979244,TROY,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,113015,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,402940,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,409084,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,411724,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,411942,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,411943,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,411944,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,411979,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,415792,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,416757,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,423478,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,428945,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+15,T. VAKIFLAR BANKASI T.A.O,434530,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,434724,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,442671,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,459252,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+15,T. VAKIFLAR BANKASI T.A.O,479908,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+15,T. VAKIFLAR BANKASI T.A.O,479909,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,483612,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,491005,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,493840,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,493841,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,493846,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,520017,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,535576,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,537504,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,540045,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,540046,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,542119,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,542798,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,542804,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,547244,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+15,T. VAKIFLAR BANKASI T.A.O,552101,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+15,T. VAKIFLAR BANKASI T.A.O,554548,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,589311,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,650052,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,650170,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,979209,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,979230,TROY,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+15,T. VAKIFLAR BANKASI T.A.O,979256,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,113032,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,115032,CUP,YDCKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,402142,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,402458,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,402459,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,404315,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,404350,VISA,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,406015,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,413528,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,416350,VISA,YIKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,416563,VISA,TEBNSTK,BONUSNET,Kredi Kartı,NoInstallment,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,427308,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,427707,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,438040,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,440247,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,440273,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,440274,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,440293,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,440294,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,440295,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,447503,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,450918,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,455645,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,459026,VISA,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,469188,VISA,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,479227,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,489494,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,489495,VISA,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,489496,VISA,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,510138,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,510139,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+32,TÜRK EKONOMİ BANKASI A.Ş.,510221,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+32,TÜRK EKONOMİ BANKASI A.Ş.,512753,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,512803,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,519780,MASTER,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,524346,MASTER,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,524839,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,524840,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,525314,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,528825,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,528920,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,530853,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,531531,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,532581,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,534538,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,535217,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,542259,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,545124,MASTER,TEBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,545148,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,547985,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,549998,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,550449,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,552207,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,553090,MASTER,TEBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+32,TÜRK EKONOMİ BANKASI A.Ş.,606329,MASTER,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,676406,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,676578,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+32,TÜRK EKONOMİ BANKASI A.Ş.,979223,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,413252,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,425669,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+46,AKBANK T.A.Ş.,432071,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,432072,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,435508,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,435509,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,474853,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,474854,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,479680,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,479681,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,493837,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,512754,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,516840,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,516841,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,520932,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,521807,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,521942,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,524347,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,534253,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+46,AKBANK T.A.Ş.,535280,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,535449,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,550383,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,552608,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+46,AKBANK T.A.Ş.,552609,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+46,AKBANK T.A.Ş.,553056,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+46,AKBANK T.A.Ş.,557113,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+46,AKBANK T.A.Ş.,557829,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,589004,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,979206,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+46,AKBANK T.A.Ş.,979207,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+46,AKBANK T.A.Ş.,979208,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,403836,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+59,ŞEKERBANK T.A.Ş.,409622,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,411156,VISA,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,411157,VISA,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,411158,VISA,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,411159,VISA,SBBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+59,ŞEKERBANK T.A.Ş.,411160,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,421086,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,423833,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,433383,VISA,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+59,ŞEKERBANK T.A.Ş.,459068,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,459268,VISA,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+59,ŞEKERBANK T.A.Ş.,489401,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,494063,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,494064,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,516846,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,519753,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+59,ŞEKERBANK T.A.Ş.,521394,MASTER,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,525404,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,530866,MASTER,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,547311,MASTER,SBBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+59,ŞEKERBANK T.A.Ş.,549208,MASTER,SBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+59,ŞEKERBANK T.A.Ş.,549394,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+59,ŞEKERBANK T.A.Ş.,589713,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,676832,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+59,ŞEKERBANK T.A.Ş.,979211,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,374421,AMEX,AMEXPL,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,374422,AMEX,SMAXPLTN,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,374423,AMEX,SFAXTK,Garanti,Kredi Kartı,NoInstallment,,Evet
+62,T. GARANTİ BANKASI A.Ş.,374424,AMEX,SMAXPLTN,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,374425,AMEX,AMXCGR,Garanti,Kredi Kartı,NoInstallment,MR,Evet
+62,T. GARANTİ BANKASI A.Ş.,374426,AMEX,AMXCGL,Garanti,Kredi Kartı,NoInstallment,MR,Evet
+62,T. GARANTİ BANKASI A.Ş.,374427,AMEX,BNSCMP,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,374428,AMEX,SFAMEX,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,375622,AMEX,AMEXE,Garanti,Kredi Kartı,Garanti,MR,
+62,T. GARANTİ BANKASI A.Ş.,375623,AMEX,AMEXG,Garanti,Kredi Kartı,Garanti,MR,
+62,T. GARANTİ BANKASI A.Ş.,375624,AMEX,AMEXP,Garanti,Kredi Kartı,Garanti,MR,
+62,T. GARANTİ BANKASI A.Ş.,375625,AMEX,AMXBE,Garanti,Kredi Kartı,Garanti,MR,Evet
+62,T. GARANTİ BANKASI A.Ş.,375626,AMEX,AMXBG,Garanti,Kredi Kartı,Garanti,MR,Evet
+62,T. GARANTİ BANKASI A.Ş.,375627,AMEX,BNSAMEX,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,375628,AMEX,SMAXGOLD,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,375629,AMEX,SMAXPLTN,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,375631,AMEX,AMEXB,Garanti,Kredi Kartı,Garanti,MR,Hayır
+62,T. GARANTİ BANKASI A.Ş.,377137,AMEX,MSAXTK,Garanti,Kredi Kartı,Garanti,Mil,Evet
+62,T. GARANTİ BANKASI A.Ş.,377596,AMEX,SFAXTK,Garanti,Kredi Kartı,NoInstallment,,Evet
+62,T. GARANTİ BANKASI A.Ş.,377597,AMEX,SFAMEX,Garanti,Kredi Kartı,NoInstallment,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,377598,AMEX,SFAMEX,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,377599,AMEX,SFAMEX,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,379369,AMEX,HCEBONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,379370,AMEX,HCESM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,379371,AMEX,HCEAMEX,Garanti,Kredi Kartı,Garanti,MR,Hayır
+62,T. GARANTİ BANKASI A.Ş.,401738,VISA,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,403280,VISA,SANAL,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,403666,VISA,BNGCP,Garanti,Kredi Kartı,NoInstallment,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,404308,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,405051,VISA,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,405090,VISA,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,409219,VISA,PREPAID,Garanti,Debit Kart,NoInstallment,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,410141,VISA,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,413836,VISA,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,420556,VISA,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,420557,VISA,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,426886,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,426887,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,426888,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,426889,VISA,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,427314,VISA,BNSTK,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,427315,VISA,BNSTK,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,428220,VISA,FLEXI,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,428221,VISA,FLEXI,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,432154,VISA,FLEXI,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,448472,VISA,BNGCP,Garanti,Kredi Kartı,NoInstallment,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,461668,VISA,SM,Garanti,Kredi Kartı,Garanti,Mil,
+62,T. GARANTİ BANKASI A.Ş.,462274,VISA,EKINBNS,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,467293,VISA,SM,Garanti,Kredi Kartı,Garanti,Mil,
+62,T. GARANTİ BANKASI A.Ş.,467294,VISA,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,467295,VISA,SMTK,Garanti,Kredi Kartı,Garanti,Mil,Evet
+62,T. GARANTİ BANKASI A.Ş.,474151,VISA,SM,Garanti,Kredi Kartı,Garanti,Mil,
+62,T. GARANTİ BANKASI A.Ş.,479660,VISA,HCEBONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,479661,VISA,HCEBONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,479662,VISA,HCEPRCRD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,479682,VISA,TPARACRD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,482489,VISA,MGRBNS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,482490,VISA,MGRBNS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,482491,VISA,MGRBNS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,487074,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,487075,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,489455,VISA,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,489478,VISA,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,490175,VISA,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,492186,VISA,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,492187,VISA,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,492193,VISA,GBKK,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,493845,VISA,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,514915,MASTER,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,516943,MASTER,IGRPCARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,516961,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,517040,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,517041,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,517042,MASTER,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,517048,MASTER,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,517049,MASTER,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,520097,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,520922,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,520940,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,520988,MASTER,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,521824,MASTER,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,521825,MASTER,SM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,522204,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,524659,MASTER,IGRBONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,526955,MASTER,BNSGENC,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,528939,MASTER,SM,Garanti,Kredi Kartı,Garanti,Mil,
+62,T. GARANTİ BANKASI A.Ş.,528956,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,533169,MASTER,SMTK,Garanti,Kredi Kartı,Garanti,Mil,Evet
+62,T. GARANTİ BANKASI A.Ş.,534261,MASTER,BNSFLEXI,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,535429,MASTER,HCEPRCRD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,535488,MASTER,TPARACRD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,537829,MASTER,SF,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,538121,MASTER,SF,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,538124,MASTER,SFTK,Garanti,Kredi Kartı,Garanti,,Evet
+62,T. GARANTİ BANKASI A.Ş.,538139,MASTER,SFTK,Garanti,Kredi Kartı,Garanti,,Evet
+62,T. GARANTİ BANKASI A.Ş.,538196,MASTER,SF,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,540036,MASTER,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,540037,MASTER,BNSTK,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,540118,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,540669,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,
+62,T. GARANTİ BANKASI A.Ş.,540709,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,541865,MASTER,FLEXI,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,542030,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,543738,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,544078,MASTER,BNSSANAL,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,544294,MASTER,GBKK,Garanti,Kredi Kartı,Garanti,,
+62,T. GARANTİ BANKASI A.Ş.,548935,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,549997,MASTER,SF,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,553130,MASTER,BNSTK,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,554253,MASTER,HCEBONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,554254,MASTER,HCESM,Garanti,Kredi Kartı,Garanti,Mil,Hayır
+62,T. GARANTİ BANKASI A.Ş.,554960,MASTER,BONUS,Garanti,Kredi Kartı,Garanti,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,557023,MASTER,SANAL,Garanti,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,558699,MASTER,BNSTK,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,589318,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,622403,CUP,DRGBNS,Garanti,Kredi Kartı,Garanti,Bonus,Evet
+62,T. GARANTİ BANKASI A.Ş.,670606,MASTER,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,676255,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,676283,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,676651,MASTER,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,676827,MASTER,PREPAID,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+62,T. GARANTİ BANKASI A.Ş.,979205,TROY,YITKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+62,T. GARANTİ BANKASI A.Ş.,979236,TROY,PARACARD,Garanti,Debit Kart,NoInstallment,Bonus,Hayır
+64,T. İŞ BANKASI A.Ş.,113064,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,418342,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,418343,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,418344,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,418345,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,441075,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,441076,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,441077,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,450803,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+64,T. İŞ BANKASI A.Ş.,454314,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,454318,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,454358,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,454359,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,454360,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,479610,VISA,YIKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+64,T. İŞ BANKASI A.Ş.,483602,VISA,YIVDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,510152,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,533803,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,535514,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,537475,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,540667,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,540668,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,543771,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,548237,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+64,T. İŞ BANKASI A.Ş.,552096,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,553058,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+64,T. İŞ BANKASI A.Ş.,589283,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,979204,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+64,T. İŞ BANKASI A.Ş.,979233,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,401622,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,
+67,YAPI VE KREDİ BANKASI A.Ş.,404809,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,406281,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,413382,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,414392,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,420342,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,420343,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,434728,VISA,YIKK,YapıKredi,Kredi Kartı,Garanti,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,434742,VISA,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,442106,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,446212,VISA,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,
+67,YAPI VE KREDİ BANKASI A.Ş.,450634,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,455359,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+67,YAPI VE KREDİ BANKASI A.Ş.,477959,VISA,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,479612,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,479620,VISA,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,479794,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,479795,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,490983,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,491205,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,491206,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,492128,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,492130,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,492131,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,494314,VISA,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,524627,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,525864,MASTER,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,533913,MASTER,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,535435,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,535601,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,535602,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,537518,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,537833,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,540061,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,540062,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,540063,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,540122,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,540129,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,542117,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,545103,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+67,YAPI VE KREDİ BANKASI A.Ş.,549624,MASTER,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,552645,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+67,YAPI VE KREDİ BANKASI A.Ş.,552659,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+67,YAPI VE KREDİ BANKASI A.Ş.,554422,MASTER,YIKK,YapıKredi,Kredi Kartı,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,603797,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,639004,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,
+67,YAPI VE KREDİ BANKASI A.Ş.,657366,TROY,YITDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,657998,TROY,YITDK,YapıKredi,Debit Kart,NoInstallment,,Evet
+67,YAPI VE KREDİ BANKASI A.Ş.,676166,MASTER,YIDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,979215,TROY,YITDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+67,YAPI VE KREDİ BANKASI A.Ş.,979241,TROY,YITDK,YapıKredi,Debit Kart,NoInstallment,,Hayır
+92,CITIBANK N.A. TÜRKİYE,437897,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+92,CITIBANK N.A. TÜRKİYE,471509,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+92,CITIBANK N.A. TÜRKİYE,553493,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+92,CITIBANK N.A. TÜRKİYE,555087,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+96,TURKISHBANK A.Ş.,419389,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+96,TURKISHBANK A.Ş.,518599,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+96,TURKISHBANK A.Ş.,529939,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+96,TURKISHBANK A.Ş.,552098,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+96,TURKISHBANK A.Ş.,589288,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+96,TURKISHBANK A.Ş.,677522,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,400684,VISA,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,408579,VISA,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,408581,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,414070,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,420322,VISA,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,420323,VISA,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,420324,VISA,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,423091,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,455571,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,474823,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,479632,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,479633,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,480296,VISA,INGBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+99,ING BANK A.Ş.,490805,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,490806,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,490807,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+99,ING BANK A.Ş.,490808,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,510151,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,514140,MASTER,INGPGS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,515755,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,515895,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,517946,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,526973,MASTER,INGPGS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,526975,MASTER,INGPGS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,531401,MASTER,INGPGS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,532443,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,535137,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,540024,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,540025,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+99,ING BANK A.Ş.,542029,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,542605,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,542965,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,542967,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,547765,MASTER,INGBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+99,ING BANK A.Ş.,548819,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,550074,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+99,ING BANK A.Ş.,550478,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+99,ING BANK A.Ş.,554297,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+99,ING BANK A.Ş.,554570,MASTER,INGBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+99,ING BANK A.Ş.,603322,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+99,ING BANK A.Ş.,676366,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+99,ING BANK A.Ş.,676402,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+99,ING BANK A.Ş.,979224,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+99,ING BANK A.Ş.,979242,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+103,FIBABANKA,423495,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,434909,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,468973,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,517601,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,522075,MASTER,FIBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+103,FIBABANKA,522566,MASTER,FIBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+103,FIBABANKA,522576,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,527765,MASTER,FIBBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+103,FIBABANKA,543624,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+103,FIBABANKA,559056,MASTER,FIBBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+103,FIBABANKA,603343,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+103,FIBABANKA,671217,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+103,FIBABANKA,979225,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+108,TURKLAND BANK,548375,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+108,TURKLAND BANK,603005,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+108,TURKLAND BANK,676429,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+108,TURKLAND BANK,979231,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+109,TEKSTİLBANK A.Ş.,413729,VISA,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,413972,VISA,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,445988,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+109,TEKSTİLBANK A.Ş.,456057,VISA,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,456059,VISA,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,514025,MASTER,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,521875,MASTER,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,527080,MASTER,TKSKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,545769,MASTER,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,545770,MASTER,TKSBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+109,TEKSTİLBANK A.Ş.,558634,MASTER,TKSBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+109,TEKSTİLBANK A.Ş.,589416,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+109,TEKSTİLBANK A.Ş.,979239,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,401072,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,402277,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,402278,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,402563,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,403082,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+111,FİNANSBANK A.Ş.,406386,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,409364,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,410147,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,413583,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,414388,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,415565,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,415956,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,420092,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,422376,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,423277,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,423398,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,427311,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+111,FİNANSBANK A.Ş.,431379,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,435653,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,441007,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,442395,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,444029,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,459333,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,479679,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,498749,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,499850,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,499851,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,499852,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,499853,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,516835,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,519324,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,521022,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,521836,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,526911,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,529572,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,530818,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,531157,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,542404,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+111,FİNANSBANK A.Ş.,545120,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,545616,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,545847,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+111,FİNANSBANK A.Ş.,547567,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+111,FİNANSBANK A.Ş.,547800,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+111,FİNANSBANK A.Ş.,601050,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+111,FİNANSBANK A.Ş.,677238,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,979202,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+111,FİNANSBANK A.Ş.,979203,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,405903,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,405913,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,405917,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,405918,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,405919,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,408969,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,409071,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,422629,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,424909,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,428240,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,496019,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,510005,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,512651,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,519399,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,525413,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,525795,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,540643,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,542254,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,545183,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,550472,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,550473,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,552143,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+123,HSBC BANK A.Ş.,556030,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,556031,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,556033,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,556034,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,556665,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+123,HSBC BANK A.Ş.,676401,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+123,HSBC BANK A.Ş.,677193,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+123,HSBC BANK A.Ş.,979214,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,365770,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+124,ALTERNATİF BANK A.Ş.,365771,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,365772,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,365773,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,416394,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,466280,VISA,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,466281,VISA,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,466282,VISA,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,466283,VISA,ALTBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+124,ALTERNATİF BANK A.Ş.,466284,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,512618,MASTER,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,516308,MASTER,ALTNFKRT,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,516458,MASTER,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,522221,MASTER,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,544836,MASTER,ALTNFBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+124,ALTERNATİF BANK A.Ş.,558485,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+124,ALTERNATİF BANK A.Ş.,654997,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+124,ALTERNATİF BANK A.Ş.,670670,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+124,ALTERNATİF BANK A.Ş.,979228,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+125,BURGAN BANK A.Ş.,414941,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+125,BURGAN BANK A.Ş.,483013,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+125,BURGAN BANK A.Ş.,491373,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+125,BURGAN BANK A.Ş.,543943,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+125,BURGAN BANK A.Ş.,545863,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,113134,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,403134,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,404990,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,408625,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,409070,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,411924,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,423667,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,424360,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,424361,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,441139,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,460345,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,460346,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,460347,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,462276,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,462448,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,462449,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,465574,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+134,DENİZ BANK A.Ş.,472914,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,472915,VISA,DNZKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,476662,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,483747,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,489456,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,489457,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,489458,VISA,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,508129,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,510063,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,510118,MASTER,DNZBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+134,DENİZ BANK A.Ş.,510119,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,512017,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,512117,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,514924,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,515865,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,516731,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,516740,MASTER,BNSNTDB,BONUSNET,Debit Kart,NoInstallment,Bonus,Hayır
+134,DENİZ BANK A.Ş.,516914,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,517047,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,520019,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,520303,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,520909,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,522517,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,523515,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,529545,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,529876,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,533293,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,533330,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,543358,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+134,DENİZ BANK A.Ş.,543400,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,543427,MASTER,DNZKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,546764,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,549839,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,552679,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,554483,MASTER,DNZBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+134,DENİZ BANK A.Ş.,558443,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,558446,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,558448,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,558460,MASTER,DNZBNSTK,BONUSNET,Kredi Kartı,Garanti,Bonus,Evet
+134,DENİZ BANK A.Ş.,558514,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+134,DENİZ BANK A.Ş.,601912,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,670610,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,670640,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,979220,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,979237,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+134,DENİZ BANK A.Ş.,979243,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+135,ANADOLU BANK A.Ş.,425846,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+135,ANADOLU BANK A.Ş.,425847,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+135,ANADOLU BANK A.Ş.,425848,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+135,ANADOLU BANK A.Ş.,425849,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+135,ANADOLU BANK A.Ş.,441341,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+135,ANADOLU BANK A.Ş.,522240,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+135,ANADOLU BANK A.Ş.,522241,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+135,ANADOLU BANK A.Ş.,535881,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+135,ANADOLU BANK A.Ş.,554301,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+135,ANADOLU BANK A.Ş.,558593,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+135,ANADOLU BANK A.Ş.,676460,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,
+135,ANADOLU BANK A.Ş.,979240,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453144,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453145,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453146,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453147,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453148,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,453149,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,504166,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,515456,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,517343,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,528246,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,532813,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,534563,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,534567,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,535843,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,581877,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,671121,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,671155,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+143,AKTİF YATIRIM BANKASI,979213,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,468791,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,468793,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,468794,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,468795,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,468796,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,468797,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,469180,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,469181,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,469183,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,516944,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,519007,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,519261,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,522347,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,522356,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,522362,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,523416,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,524677,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,526952,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,527369,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,527383,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,527396,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,528064,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,535446,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,536255,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+146,ODEA BANK A.Ş.,670868,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+146,ODEA BANK A.Ş.,979219,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,417715,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+203,ALBARAKA TURK,417716,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+203,ALBARAKA TURK,423002,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,424935,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+203,ALBARAKA TURK,432284,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+203,ALBARAKA TURK,432285,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,
+203,ALBARAKA TURK,434572,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+203,ALBARAKA TURK,479671,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,511583,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Hayır
+203,ALBARAKA TURK,533796,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,533973,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,534264,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,
+203,ALBARAKA TURK,547234,MASTER,YIKK,World,Kredi Kartı,YapıKredi,World,Evet
+203,ALBARAKA TURK,548232,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+203,ALBARAKA TURK,677397,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+203,ALBARAKA TURK,979226,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+203,ALBARAKA TURK,979227,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,402589,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,402590,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,402591,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,402592,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,403360,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,403810,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,410555,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,410556,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,424487,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,431024,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,483673,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,483674,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,483714,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,511660,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,512595,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,518896,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,520180,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,525312,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,527083,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,547564,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,677055,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+205,KUVEYT TÜRK EVKAF FİNANS KURUMU,979216,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,400742,VISA,TFKBKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,404952,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,411685,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+206,TÜRKİYE FİNANS KATILIM BANKASI,416275,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,424927,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,424931,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,428462,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+206,TÜRKİYE FİNANS KATILIM BANKASI,435627,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,435628,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,435629,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,441206,VISA,TFKBKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,470954,VISA,TFKBKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,479915,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,479916,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,479917,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,485061,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,498724,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,498725,VISA,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,511758,MASTER,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,511783,MASTER,TFKBKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,512360,MASTER,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,521848,MASTER,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+206,TÜRKİYE FİNANS KATILIM BANKASI,528293,MASTER,TFKBKART,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,537719,MASTER,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+206,TÜRKİYE FİNANS KATILIM BANKASI,549294,MASTER,TFKBONUS,BONUSNET,Kredi Kartı,Garanti,Bonus,
+206,TÜRKİYE FİNANS KATILIM BANKASI,552610,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet
+206,TÜRKİYE FİNANS KATILIM BANKASI,606043,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,677451,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+206,TÜRKİYE FİNANS KATILIM BANKASI,979218,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+209,ZİRAAT KATILIM BANKASI A.Ş.,416283,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+209,ZİRAAT KATILIM BANKASI A.Ş.,535248,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+209,ZİRAAT KATILIM BANKASI A.Ş.,539134,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+209,ZİRAAT KATILIM BANKASI A.Ş.,670586,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+209,ZİRAAT KATILIM BANKASI A.Ş.,979221,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+210,VAKIF KATILIM BANKASI A.S,483703,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+210,VAKIF KATILIM BANKASI A.S,483704,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+210,VAKIF KATILIM BANKASI A.S,535355,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,Garanti,,Hayır
+210,VAKIF KATILIM BANKASI A.S,670544,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+210,VAKIF KATILIM BANKASI A.S,979250,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,492192,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,512446,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,516742,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,521584,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,539605,MASTER,DNZPTBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,549938,MASTER,DNZPTBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,554566,MASTER,DNZPTBNS,BONUSNET,Kredi Kartı,Garanti,Bonus,Hayır
+900,AKK TURİZM VE TİCARET A.Ş.,677047,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır

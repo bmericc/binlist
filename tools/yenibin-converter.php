@@ -1,13 +1,8 @@
 <?php
 
-$json = file_get_contents("yeni_binlist.json");
+$json = file_get_contents("csvjson.json");
 $array = json_decode($json, true);
-
-
-$json_old = file_get_contents("binlist.json");
-$array_old = json_decode($json_old, true);
-$keys = array_keys(current($array_old) );
-
+$keys = array_keys(current($array) );
 
 $binArray = array();
 foreach($array as $row) {
