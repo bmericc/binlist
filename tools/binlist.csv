@@ -235,38 +235,38 @@ banka_kodu,banka_adi,bin_code,card_type,sinif,marka,sub_type,taksit,odul,ticari,
 32,TÜRK EKONOMİ BANKASI A.Ş.,900022,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 32,TÜRK EKONOMİ BANKASI A.Ş.,979223,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 32,TÜRK EKONOMİ BANKASI A.Ş.,979264,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,413252,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,425669,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-46,AKBANK T.A.Ş.,432071,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,432072,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,435508,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,435509,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,413252,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,425669,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Evet,#YOK
+46,AKBANK T.A.Ş.,432071,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,432072,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,435508,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,435509,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,474853,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 46,AKBANK T.A.Ş.,474854,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,479680,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,479680,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,479681,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,493837,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,512754,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,493837,VISA,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,512754,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,516643,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 46,AKBANK T.A.Ş.,516840,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 46,AKBANK T.A.Ş.,516841,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,520932,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,521807,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,520932,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,521807,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,521942,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,524347,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,534253,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,524347,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,534253,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,535280,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 46,AKBANK T.A.Ş.,535449,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,550383,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,552608,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-46,AKBANK T.A.Ş.,552609,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-46,AKBANK T.A.Ş.,553056,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-46,AKBANK T.A.Ş.,557113,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,557829,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+46,AKBANK T.A.Ş.,550383,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,552608,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Evet,#YOK
+46,AKBANK T.A.Ş.,552609,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Evet,#YOK
+46,AKBANK T.A.Ş.,553056,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Evet,#YOK
+46,AKBANK T.A.Ş.,557113,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,557829,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
 46,AKBANK T.A.Ş.,589004,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,900019,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,979206,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-46,AKBANK T.A.Ş.,979207,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
+46,AKBANK T.A.Ş.,900019,TROY,YITKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,979206,TROY,YITKK,AXESS,Kredi Kartı,Akbank,Axess,Hayır,#YOK
+46,AKBANK T.A.Ş.,979207,TROY,YITKK,AXESS,Kredi Kartı,Akbank,Axess,Evet,#YOK
 46,AKBANK T.A.Ş.,979208,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 59,ŞEKERBANK T.A.Ş.,113059,AMEX,YIAMEX,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 59,ŞEKERBANK T.A.Ş.,403836,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
@@ -837,15 +837,15 @@ banka_kodu,banka_adi,bin_code,card_type,sinif,marka,sub_type,taksit,odul,ticari,
 146,ODEA BANK A.Ş.,468796,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,468797,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,469180,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-146,ODEA BANK A.Ş.,469181,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+146,ODEA BANK A.Ş.,469181,VISA,YIKK,AXESS,Kredi Kartı,Akbank,,Hayır,#YOK
 146,ODEA BANK A.Ş.,516944,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,519261,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,522347,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,522356,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-146,ODEA BANK A.Ş.,522362,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-146,ODEA BANK A.Ş.,524677,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-146,ODEA BANK A.Ş.,526952,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-146,ODEA BANK A.Ş.,527369,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+146,ODEA BANK A.Ş.,522362,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,,Hayır,#YOK
+146,ODEA BANK A.Ş.,524677,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,,Hayır,#YOK
+146,ODEA BANK A.Ş.,526952,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,,Hayır,#YOK
+146,ODEA BANK A.Ş.,527369,MASTER,YIKK,AXESS,Kredi Kartı,Akbank,,Hayır,#YOK
 146,ODEA BANK A.Ş.,527383,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,527396,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,528064,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
@@ -853,6 +853,10 @@ banka_kodu,banka_adi,bin_code,card_type,sinif,marka,sub_type,taksit,odul,ticari,
 146,ODEA BANK A.Ş.,670868,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,900020,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 146,ODEA BANK A.Ş.,979219,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+146,ODEA BANK A.Ş.,468793,VISA,YIKK,AXESS,Kredi Kartı,Akbank,,,
+146,ODEA BANK A.Ş.,469180,VISA,YIKK,AXESS,Kredi Kartı,Akbank,,,
+146,ODEA BANK A.Ş.,469182,VISA,YIKK,AXESS,Kredi Kartı,Akbank,,,
+146,ODEA BANK A.Ş.,469183,VISA,YIKK,AXESS,Kredi Kartı,Akbank,,,
 150,GOLDEN GLOBAL YATIRIM BANKASI AŞ,474265,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 150,GOLDEN GLOBAL YATIRIM BANKASI AŞ,547402,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 203,ALBARAKA TURK,417715,VISA,YIKK,World,Kredi Kartı,YapıKredi,World,Evet,417715
