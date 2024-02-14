@@ -636,57 +636,57 @@ banka_kodu,banka_adi,bin_code,card_type,sinif,marka,sub_type,taksit,odul,ticari,
 109,TEKSTİLBANK A.Ş.,589416,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,,#YOK
 109,TEKSTİLBANK A.Ş.,900017,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
 109,TEKSTİLBANK A.Ş.,979239,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,401072,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,402277,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,402278,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,402563,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,403082,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
+111,FİNANSBANK A.Ş.,401072,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,402277,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,402278,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,402563,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,403082,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
 111,FİNANSBANK A.Ş.,406386,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,409364,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,410147,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,414388,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,415565,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,409364,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,410147,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,414388,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,415565,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,415956,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,420092,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,422376,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,427311,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
+111,FİNANSBANK A.Ş.,422376,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,427311,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
 111,FİNANSBANK A.Ş.,431379,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,435653,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,439757,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,441007,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,442395,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,435653,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,439757,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,441007,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,442395,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,459333,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,479679,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,498749,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,499850,VISA,YIVKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,499851,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,499852,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,499850,VISA,YIVKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,499851,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,499852,VISA,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,499853,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,516789,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,516835,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,516843,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,519324,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,521022,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,521836,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,526911,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,529572,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,530818,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,531157,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,519324,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,521022,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,521836,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,526911,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,529572,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,530818,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,531157,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,535177,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,537058,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,539957,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,542404,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-111,FİNANSBANK A.Ş.,545120,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,545616,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,545847,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,547567,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-111,FİNANSBANK A.Ş.,547772,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
-111,FİNANSBANK A.Ş.,547800,MASTER,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
+111,FİNANSBANK A.Ş.,537058,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,539957,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,542404,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
+111,FİNANSBANK A.Ş.,545120,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,545616,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,545847,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,547567,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
+111,FİNANSBANK A.Ş.,547772,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
+111,FİNANSBANK A.Ş.,547800,MASTER,YIKK,CardFinans,Kredi Kartı,Finansbank,,Evet,#YOK
 111,FİNANSBANK A.Ş.,601050,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,677238,MASTER,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,900012,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,900012,TROY,YITKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 111,FİNANSBANK A.Ş.,979202,TROY,YITDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
-111,FİNANSBANK A.Ş.,979203,TROY,YITKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Hayır,#YOK
+111,FİNANSBANK A.Ş.,979203,TROY,YITKK,CardFinans,Kredi Kartı,Finansbank,,Hayır,#YOK
 123,HSBC BANK A.Ş.,405903,VISA,YIDK,DİĞER BANKA,Debit Kart,NoInstallment,,Hayır,#YOK
 123,HSBC BANK A.Ş.,405913,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,Evet,#YOK
 123,HSBC BANK A.Ş.,405917,VISA,YIKK,DİĞER BANKA,Kredi Kartı,NoInstallment,,,#YOK
